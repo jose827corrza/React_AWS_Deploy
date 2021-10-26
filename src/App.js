@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Prueba de despliegue de app en React usando AWS Amplify
         </a>
       </header>
     </div>
